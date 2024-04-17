@@ -45,7 +45,7 @@
 
 .calculator {
   width: 310px;
-  height: 50%;
+  height: 465px;
   /* overflow: hidden; */
   display: flex;
   flex-direction: column;
